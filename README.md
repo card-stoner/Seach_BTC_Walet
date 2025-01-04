@@ -48,6 +48,7 @@ To run the program, execute the following command:
 The program will write the generated data to the `wallets.txt` file. The data structure in the file will look like this:
 
 ```
+<------------------------>
 Mnemonic: example mnemonic phrase
 Seed: 1234567890abcdef
 SHA256 of Seed: abcdef1234567890
